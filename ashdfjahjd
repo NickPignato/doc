@@ -1,0 +1,9 @@
+if [ -z $MAURO ] then
+  wget xxxxx-$MAURO.tar.gz
+else
+  wget xxxx-latest.tar.gz
+fi
+
+
+
+:q
